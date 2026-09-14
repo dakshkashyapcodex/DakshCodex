@@ -720,10 +720,13 @@ svg.bi.bi-arrow-down {
 
     cursor: pointer;
     transition: 0.3s;
+
+    border: 1px solid blue;
 }
 
 .send-btn:hover {
-    background: #531bd4;
+    background: white;
+    color:blue;
     transform: translateY(-2px);
 }
 
