@@ -612,7 +612,7 @@ svg.bi.bi-arrow-down {
 
 .card-content a{
 	
-	color: #4d7cff;
+	color: white;
 	text-decoration:none;
 	font-weight:bold;
 }
@@ -724,7 +724,8 @@ svg.bi.bi-arrow-down {
     border: 1px solid blue;
 }
 
-.send-btn:hover {
+.send-btn:hover  ,
+.send-btn a:hover  {
     background: white;
     color:blue;
     transform: translateY(-2px);
